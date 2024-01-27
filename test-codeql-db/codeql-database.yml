@@ -1,0 +1,11 @@
+---
+sourceLocationPrefix: /home/donk/proj/codeql-test
+baselineLinesOfCode: 6
+unicodeNewlines: true
+columnKind: utf16
+primaryLanguage: javascript
+creationMetadata:
+  sha: 6df3d63879d2509eaa74e595f57b0cf0788c1a66
+  cliVersion: 2.16.1
+  creationTime: 2024-01-27T23:42:35.095114786Z
+finalised: true
